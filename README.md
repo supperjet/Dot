@@ -1,5 +1,5 @@
 # Dot
-Dot 是一个使用canvas制作的粒子特效插件，使用简单方便，效果多样。
+Dot 是一个使用canvas制作的粒子特效插件，使用简单方便。
 ### 1、Feature
 1. 使用原生canvas，不需依赖任何外部插件
 1. 支持`AMD`&&`CMD`规范
@@ -23,7 +23,7 @@ Dot("dot", {*****});
 ###3、DEMO
 运行`demo.html`
 
-![](img/demo.png)
+![](demoImgs/demo.png)
 
 ###4、Configure
 |   属性  |   类型  | 默认值 |   描述   |
