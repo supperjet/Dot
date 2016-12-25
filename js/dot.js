@@ -72,8 +72,8 @@
 			ctx = null,
 			oDotA = null,
 			oDotB = null,
-			W = options.cW, 
-			H = options.cH;
+			W = null, 
+			H = null;
 
 		/********
 		全局函数
@@ -358,6 +358,9 @@
 
 			canvas = document.getElementById(selector),
 			ctx = canvas.getContext('2d');
+            
+            W = options.cW;
+			H = options.cH;
 				
 			canvas.width = W;
 			canvas.height = H;

@@ -21,7 +21,7 @@ Dot("dot", {*****});
 ```
 
 ###3、DEMO
-运行`demo.html`
+[点击运行demo](http://codepen.io/supperjet/pen/vyMKWO)
 
 ![](demoImgs/demo.png)
 
